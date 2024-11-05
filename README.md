@@ -20,7 +20,8 @@ https://github.com/NataliaSafiullina/HW_Retail-Shop-SOLID/blob/9754ce0ca66797f05
 Вывод информации на экран, будь то меню, или список товаров, или список возможных способов оплаты,
 осуществляет один и тот же метод с настройками через его параметры.
 
-https://github.com/NataliaSafiullina/HW_Retail-Shop-SOLID/blob/9754ce0ca66797f05f4b8a2ff1028df50f53789e/src/main/java/ru/safiullina/ConsoleUI.java#L17C5-L37C6
+https://github.com/NataliaSafiullina/HW_Retail-Shop-SOLID/blob/9754ce0ca66797f05f4b8a2ff1028df50f53789e/src/main/java/ru/safiullina/ConsoleUI.java#L16-L37
+
 
 ## SOLID:
 
@@ -43,7 +44,7 @@ https://github.com/NataliaSafiullina/HW_Retail-Shop-SOLID/blob/9754ce0ca66797f05
 
 https://github.com/NataliaSafiullina/HW_Retail-Shop-SOLID/blob/9754ce0ca66797f05f4b8a2ff1028df50f53789e/src/main/java/ru/safiullina/money/Wallet.java#L3-L28
 
-Семейство связка интерфейса UserInterface и класса ConsoleUI могут быть расширены другим
+Связка интерфейса UserInterface и класса ConsoleUI могут быть расширены другим
 пользовательским интерфейсом, например голосовым.
 
 https://github.com/NataliaSafiullina/HW_Retail-Shop-SOLID/blob/9754ce0ca66797f05f4b8a2ff1028df50f53789e/src/main/java/ru/safiullina/UserInterface.java#L5-L10
