@@ -32,8 +32,7 @@ public class Purchase {
                         ", цена = " + price +
                         ", cумма = " + sum);
             }
-        }
-        else {
+        } else {
             System.out.println("Корзина пуста");
         }
         list.add("Итого: " + total);
@@ -52,7 +51,7 @@ public class Purchase {
         return total;
     }
 
-    public static void deleteShoppingCart(){
+    public static void deleteShoppingCart() {
         shoppingCart = null;
     }
 

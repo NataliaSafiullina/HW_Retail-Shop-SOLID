@@ -5,7 +5,7 @@ package ru.safiullina.money;
  * Бонусами можно рассчитываться (один к десяти)
  * Бонусы нельзя вывести
  */
-public class Bonus extends Wallet implements TopUp{
+public class Bonus extends Wallet implements TopUp {
 
     public int RATIO = 10;
 

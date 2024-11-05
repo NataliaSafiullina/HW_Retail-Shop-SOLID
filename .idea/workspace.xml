@@ -5,27 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4181df71-574a-4798-a6dc-254f11f5a381" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/ConsoleUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/UserInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/buyer/Purchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/buyer/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/money/Bonus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/money/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/money/TopUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/money/Wallet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/money/WithdrawMoney.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/shop/CashDesk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/shop/Prices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/shop/Products.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/safiullina/buyer/Purchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/buyer/Purchase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/safiullina/money/Bonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/money/Bonus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/safiullina/money/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/money/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/safiullina/shop/CashDesk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/safiullina/shop/CashDesk.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,5 +72,16 @@
       <updated>1730706202063</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

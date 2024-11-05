@@ -5,7 +5,8 @@ package ru.safiullina.money;
  * Карту можно пополнять
  * С карты можно вывести средства
  */
-public class Card extends Wallet implements WithdrawMoney, TopUp{
+public class Card extends Wallet implements WithdrawMoney, TopUp {
+
     public Card(int balance, String name) {
         super(balance, name);
     }
