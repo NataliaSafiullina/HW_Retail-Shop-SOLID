@@ -7,7 +7,7 @@ package ru.safiullina.money;
  */
 public class Bonus extends Wallet implements TopUp{
 
-    public int BONUS_COST = 10;
+    public int RATIO = 10;
 
     public Bonus(int balance, String name) {
         super(balance, name);
@@ -35,7 +35,7 @@ public class Bonus extends Wallet implements TopUp{
     public boolean spend(int amount) {
 
         // 1 бонус
-        amount *= BONUS_COST;
+        amount *= RATIO;
 
         // get current balance
         int curBalance = getBalance();
